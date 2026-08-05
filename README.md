@@ -1,4 +1,4 @@
-# leetcode-hackerrank-solutions
+# leetcode-solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
